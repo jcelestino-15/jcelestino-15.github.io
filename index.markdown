@@ -4,3 +4,20 @@
 
 layout: home
 ---
+
+<style>
+img {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    width: 60%
+}
+</style> 
+
+<center><h1>Welcome to my CIT480 Blog!</h1> </center>
+
+<img src="assets/images/alphonse-clapping.gif" class="center">
+
+
+
+
